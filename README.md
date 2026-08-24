@@ -39,25 +39,26 @@ My primary security portfolio. It contains documented investigations, forensic a
 
 * [Web Shell Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/01-07-2026_web-shell.md)
 * [Malware Compromise Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/02-07-2026_malware-compromise.md)
-* [Web Server Takeover — PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/05-06-2026_web-server-takeover-pcap-investigation-report.md)
+* [Web Server Takeover - PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/05-06-2026_web-server-takeover-pcap-investigation-report.md)
 * [OpenWire / Apache ActiveMQ Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/06-06-2026_openwire-apacheactivemq.md)
-* [STRRAT Malware — PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/16-05-2026_strrat-malware-pcap-investigation-report.md)
-* [IcedID Banking Malware — PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/18-05-2026_icedid-banking-malware-pcap-investigation-report.md)
-* [OskiStealer — PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/18-05-2026_oskistealer-malware-pcap-investigation-report.md)
+* [STRRAT Malware - PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/16-05-2026_strrat-malware-pcap-investigation-report.md)
+* [IcedID Banking Malware - PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/18-05-2026_icedid-banking-malware-pcap-investigation-report.md)
+* [OskiStealer - PCAP Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/network-forensics/18-05-2026_oskistealer-malware-pcap-investigation-report.md)
 
 ### Memory Forensics
 
-* [Brave — Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/12-06-2026_cyberdefenders_brave-memory-forensics.md)
-* [NintendoHunt — Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/19-06-2026_cyberdefenders_nintendohunt-memory-forensics.md)
-* [Reveal — Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/29-05-2026_cyberdefenders_reveal-memory-forensics.md)
+* [Brave - Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/12-06-2026_cyberdefenders_brave-memory-forensics.md)
+* [NintendoHunt - Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/19-06-2026_cyberdefenders_nintendohunt-memory-forensics.md)
+* [Reveal - Memory Forensics](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/memory-forensics/29-05-2026_cyberdefenders_reveal-memory-forensics.md)
 
 ### Malware Analysis
 
-* [Turla JavaScript Downloader — CyberDefenders Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/malware-analysis/24-08-2026_cyberdefenders-obfuscated-lab-turla-js-downloader.md)
+* [Turla JavaScript Downloader - CyberDefenders Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/malware-analysis/24-08-2026_cyberdefenders-obfuscated-lab-turla-js-downloader.md)
+* [Ransomed - CyberDefenders Investigation](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/malware-analysis/24-08-2026_cyberdefenders-ransomed-lab.md)
 
 ### Cloud Security
 
-* [flaws.cloud — All 6 Levels](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/cloud-security/22-05-2026_flaws-cloud-all-6-levels.md)
+* [flaws.cloud - All 6 Levels](https://github.com/lightnonstop/cybersecurity-home-labs/blob/main/labs/cloud-security/22-05-2026_flaws-cloud-all-6-levels.md)
 
 ---
 
